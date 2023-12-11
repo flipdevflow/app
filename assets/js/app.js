@@ -16,6 +16,7 @@ relogio=()=>{
 
     return horaatual
 }  
+
 initapp=()=>{
     app.innerHTML=`
     <header  id="top">
@@ -79,7 +80,7 @@ initapp=()=>{
 <main>
    <div class='display'>
       <div class='content-text'>
-         <span class='title'>Harmony</span>
+         <span class='title'>Flip </span>
          <h1>Visível, leve e intuitivo.</h1>
          <h2>ative a criatividade, comece algo novo</br>  agora mesmo...</h2>
          <a class='btn-down' href='#details'>
@@ -144,7 +145,7 @@ initapp=()=>{
                      <i class="fa-solid fa-microchip"></i>Mídias sociais
                   </div>
                   <div class="card-body">
-                     <p>Crie seu cronograma de marketing digital, mantenha frequencia com Design original. </p>
+                     <p>Crie seu cronograma de marketing digital, mantenha Frequência com Design original. </p>
                   </div>
                </div>
             </div>
