@@ -80,7 +80,7 @@ initapp=()=>{
 <main>
    <div class='display'>
       <div class='content-text'>
-         <span class='title'>Flip </span>
+         <span class='title'>Flip Media </span>
          <h1>Visível, leve e intuitivo.</h1>
          <h2>ative a criatividade, comece algo novo</br>  agora mesmo...</h2>
          <a class='btn-down' href='#details'>
@@ -139,7 +139,7 @@ initapp=()=>{
                      <p>Seu material de comunicação, inclusive logo marca, tipografia e padrões de cores originais. </p>
                   </div>
                </div>
-               <!-- CARD' -->
+               <!-- CARD' -->A
                <div class="card">
                   <div class="card-header">
                      <i class="fa-solid fa-microchip"></i>Mídias sociais
