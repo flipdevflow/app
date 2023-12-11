@@ -110,7 +110,7 @@ initapp=()=>{
          </div>
          <div class="">
             <div class="card-container">
-               <!-- CARD' -->
+           
                <div class="card" style='background-color:#D2FCFF'>
                   <div class="card-header">
                      <i class="fa-solid fa-microchip"></i> Landing Pages
@@ -139,7 +139,7 @@ initapp=()=>{
                      <p>Seu material de comunicação, inclusive logo marca, tipografia e padrões de cores originais. </p>
                   </div>
                </div>
-               <!-- CARD' -->A
+               <!-- CARD' -->
                <div class="card">
                   <div class="card-header">
                      <i class="fa-solid fa-microchip"></i>Mídias sociais
