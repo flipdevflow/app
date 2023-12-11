@@ -7,6 +7,23 @@
     
 
 }
+a.whatsapi {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    display: flex;
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    border-radius: 70px;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    right: 20px;
+    top: 77%;
+    background-color: #ffd707;
+    box-shadow: 1px 1px 3px #8886b7cf;
+}
 h2, h3 {
     font-size: 2rem;
     line-height: 0.9;
@@ -310,6 +327,7 @@ a.btn.primary:hover {
     display: block;
     text-transform: uppercase;
     font-weight: 900; 
+    letter-spacing: -6px;
 }
  
 span.title::before {
@@ -551,11 +569,11 @@ a.btn-sucess svg {
     }
      
     .display span.title {
-        font-size: 5.5rem  ;
+        font-size: 5.5rem;
         letter-spacing: 27px;
-        
-    text-shadow:-3px 2px 2px #0e424977;
-    /* text-shadow: 0px 0px 9px #00dbff9e; */
+        text-shadow: inherit; 
+        letter-spacing: -8px;
+     
     }
     .display a span {
         font-size: 0.9rem ;
